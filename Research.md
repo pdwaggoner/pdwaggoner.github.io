@@ -24,7 +24,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 21. Trust in Public Policy Algorithms (with Ryan Kennedy and Matthew Ward). Accepted, Journal of Politics
 
-20. A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19. Forthcoming, The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from Purdue University Press
+20. [A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19]("./resfiles/Waggoner_FINAL CCSE Manuscript.pdf"). Forthcoming, The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from Purdue University Press
 
 19. Pandemic Policymaking. 2021. Journal of Social Computing
 
@@ -34,7 +34,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 16. Exploring Ideological Signals from Cosponsorship (with Carol Ann Downes). 2020. Journal of Mathematical Sociology
 
-15. Measuring Media Freedom: An Item Response Theory Analysis of Existing Indicators (with Jonathan Solis; replication data here). 2020. British Journal of Political Science
+15. Measuring Media Freedom: An Item Response Theory Analysis of Existing Indicators (with Jonathan Solis; replication data [here]("./resfiles/MSFS-estimates_full-3x2000.csv")). 2020. British Journal of Political Science
 
 14. Exploring the Effects of Allegations of Sexual Misconduct on Political Careers (with Andrew Creekmore). 2020. Social Science Journal
 
@@ -66,9 +66,9 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Manuscripts Under Review
 
-- "Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms" (with Alec MacMillen)
+- Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422) (with Alec MacMillen)
 
-- "Uncovering the Online Social Structure Surrounding COVID-19" (with Robert Y. Shapiro, Sam Frederick, and Ming Gong)
+- Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong)
 
 ### Manuscripts in Preparation (Selected)
 
