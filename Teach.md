@@ -13,7 +13,7 @@ ___________
 
 * Data Mining & Data Visualization for the Social Sciences (Summer 2020; Co-taught with Benjamin Soltoff)
 
-* Perspectives on Computational Research (Spring 2020, 2021; Co-taught with Jon Clindaniel)
+* Perspectives on Computational Research (Spring 2020, 2021; Co-taught with Jon Clindaniel & Benjamin Soltoff)
 
 * Computational Methods for American Politics (Autumn 2019)
 
