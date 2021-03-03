@@ -24,7 +24,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 21. Trust in Public Policy Algorithms (with Ryan Kennedy and Matthew Ward). Accepted, Journal of Politics
 
-20. [A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19]("./resfiles/Waggoner_FINAL CCSE Manuscript.pdf"). Forthcoming, The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from Purdue University Press
+20. [A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19](./resfiles/Waggoner_FINAL CCSE Manuscript.pdf). Forthcoming, The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from Purdue University Press
 
 19. Pandemic Policymaking. 2021. Journal of Social Computing
 
@@ -66,7 +66,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Manuscripts Under Review
 
-- Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422) (with Alec MacMillen)
+- [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422) (with Alec MacMillen)
 
 - Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong)
 
