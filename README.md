@@ -3,7 +3,7 @@ ________
 
 ## Welcome!
 
-My name is Philip Waggoner and I am a member of the graduate computational social science ([MACSS](https://macss.uchicago.edu/directory/philip-waggoner){:target="_blank" rel="noopener"}) faculty at the University of Chicago. I am also an Editorial Board Member at the Journal of Mathematical Sociology, an Associate Editor at the Journal of Open Research Software, and an American Statistical Association accredited Graduate Statistician (GStat).
+My name is Philip Waggoner and I am a member of the graduate computational social science ([MACSS](https://macss.uchicago.edu/directory/philip-waggoner){:target="_blank"}) faculty at the University of Chicago. I am also an Editorial Board Member at the Journal of Mathematical Sociology, an Associate Editor at the Journal of Open Research Software, and an American Statistical Association accredited Graduate Statistician (GStat).
 
 I am jointly appointed as a visiting research scholar at the Institute for Social and Economic Research and Policy ([ISERP](http://iserp.columbia.edu/people/philip-d-waggoner)) at Columbia University. In collaboration with [Robert Y. Shapiro](https://www.sipa.columbia.edu/faculty-research/faculty-directory/robert-shapiro), we are working on a number of experimental and computational projects exploring the influence and validity of social media data.
 
