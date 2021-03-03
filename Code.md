@@ -5,28 +5,18 @@ ___________
 
 ### Software (On CRAN and/or GitHub)
 
-* `easystats`: An ecosystem of packages making statistics in R easy (contributor).
-
-* `plotmm`: Tidy Tools for Visualizing Mixture Models. with Fong Chan and Lu Zhang. On CRAN & GitHub
-
-* `amerika`: American politics-inspired color palette generator. On CRAN & GitHub
-
+* `easystats`: An ecosystem of packages making statistics in R easy (contributor)
+* `plotmm`: Tidy Tools for Visualizing Mixture Models. with Fong Chan and Lu Zhang
+* `amerika`: American politics-inspired color palette generator
 * Comparing Unsupervised Machine Learning Clustering Techniques. with Marc Lavielle (Two Shiny Apps; and a paper)
-
-* `plotGMM`: Tools for visualizing Gaussian mixture models in R. with Fong Chun Chan. On CRAN; No longer actively developed in favor of new "plotmm" package
-
-* `rIP`: Validating IP addresses to detect fraud in online surveys. with Ryan Kennedy and Scott Clifford. On CRAN & GitHub
-
-* `hhi`: Calculating & visualizing Herfindahl-Hirschman Index scores. On CRAN & GitHub
-
-* `purging`: Purging mediation effects from independent variables. On CRAN & GitHub
-
-* `mlbstats`: Major league baseball player metrics calculator. On CRAN & GitHub
+* `plotGMM`: Tools for visualizing Gaussian mixture models in R. with Fong Chun Chan; *No longer actively developed in favor of new "plotmm" package*
+* `rIP`: Validating IP addresses to detect fraud in online surveys. with Ryan Kennedy and Scott Clifford
+* `hhi`: Calculating & visualizing Herfindahl-Hirschman Index scores
+* `purging`: Purging mediation effects from independent variables
+* `mlbstats`: Major league baseball player metrics calculator
 
 ### Miscellaneous Code
 
 * Building Neural Networks in R with External Machine Learning Engines: Code and data from my talk at Government Advances in Statistical Programming (GASP)
-
 * Introduction to Computation in R: Files and Scripts from my Intro to R course at William & Mary
-
 * Learning LaTeX: Files walking users through the basics of LaTeX; Based on my seminar at Houston
