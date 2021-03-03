@@ -1,3 +1,6 @@
+#### [Research](/Research.md) | [Code](/Code.md) | [Teaching](/Teaching.md) | [CV](https://www.dropbox.com/s/ikt228v5lmobro2/Philip%20Waggoner_CV.pdf?dl=0){:target="_blank"} | [Email](mailto:pdwaggoner@uchicago.edu){:target="_blank"} | [Github](https://github.com/pdwaggoner){:target="_blank"} 
+___________
+
 ## Welcome!
 
 My name is Philip Waggoner and I am a member of the graduate computational social science ([MACSS](https://macss.uchicago.edu/directory/philip-waggoner){:target="_blank"}) faculty at the University of Chicago. I am also an Editorial Board Member at the Journal of Mathematical Sociology, an Associate Editor at the Journal of Open Research Software, and an American Statistical Association accredited Graduate Statistician (GStat).
