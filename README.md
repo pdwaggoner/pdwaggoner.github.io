@@ -1,41 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/pdwaggoner/pdwaggoner.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Philip Waggoner and I am a member of the graduate computational social science (MACSS) faculty at the University of Chicago. I am also an Editorial Board Member at the Journal of Mathematical Sociology, an Associate Editor at the Journal of Open Research Software, and an American Statistical Association accredited Graduate Statistician (GStat).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently jointly appointed as a visiting research scholar at the Institute for Social and Economic Research and Policy (ISERP) at Columbia University. In collaboration with Robert Y. Shapiro, we are working on a number of experimental and computational projects exploring the influence and validity of social media data.
 
-### Welcome
+I apply statistical, experimental, and computational techniques to explore and explain a variety of social science behavior. My research has been supported by the Office of the Director of National Intelligence (ODNI), the Intelligence Advanced Research Projects Activity (IARPA), the Institute for Humane Studies, the College of William & Mary, the William A. Steiger Fund for Legislative Studies and the Centennial Center of the American Political Science Association.
 
-### Research
+I earned my Ph.D. and M.A. in Political Science from the University of Houston, an M.P.A. from the School of Public Affairs at the University of Colorado, Denver, and a B.A. in Political Science from Colorado State University. For more information, see my CV.
 
-[Here](/Research.md) is a link to my research page. 
+University of Chicago
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+easystats: An ecosystem of R packages making statistics in R easy
 
-```markdown
-Syntax highlighted code block
+Google Scholar
 
-# Header 1
-## Header 2
-### Header 3
+arXiv
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pdwaggoner/pdwaggoner.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Social Science Research Network
