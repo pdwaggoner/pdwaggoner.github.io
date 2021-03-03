@@ -1,12 +1,11 @@
 #### [Home](https://pdwaggoner.github.io) | [Research](/Research.md) | [Code](/Code.md) | [Teaching](/Teach.md) | [CV](https://www.dropbox.com/s/ikt228v5lmobro2/Philip%20Waggoner_CV.pdf?dl=0){:target="_blank"} | [Email](mailto:pdwaggoner@uchicago.edu){:target="_blank"} | [Github](https://github.com/pdwaggoner){:target="_blank"} 
 ___________
 
-## Software // Code
-
-`easystats`: An ecosystem of packages making statistics in R easy
-
+## Open-Source Code and Software
 
 ### Software (On CRAN and/or GitHub)
+
+* `easystats`: An ecosystem of packages making statistics in R easy (contributor).
 
 * `plotmm`: Tidy Tools for Visualizing Mixture Models. with Fong Chan and Lu Zhang. On CRAN & GitHub
 
