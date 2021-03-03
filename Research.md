@@ -5,17 +5,17 @@ ___________
 
 ### Books
 
-3. *Modern Dimension Reduction*. Under Contract with Cambridge University Press
+* *Modern Dimension Reduction*. Under Contract with Cambridge University Press
 
 Data are not only ubiquitous in society, but are increasingly complex both in size and dimensionality. Dimension reduction offers researchers and scholars the ability to make such complex, high dimensional data spaces simpler and more manageable. My book offers readers a suite of modern unsupervised dimension reduction techniques along with hundreds of lines of R code, to efficiently represent the original high dimensional data space in a simplified, lower dimensional subspace. Launching from the earliest dimension reduction technique principal components analysis and using real social science data, I introduce and walk readers through application of the following techniques: locally linear embedding, t-distributed stochastic neighbor embedding (t-SNE), uniform manifold approximation and projection, self-organizing maps, and deep autoencoders. The result is a well-stocked toolbox of unsupervised, nonparametric methods for tackling the complexities of high dimensional data so common in modern society.
 
 
-2. *Introduction to R for Social Scientists: A Tidy Programming Approach* (with Ryan Kennedy). 2021. Chapman & Hall/CRC Press (Order: here or here)
+* *Introduction to R for Social Scientists: A Tidy Programming Approach* (with Ryan Kennedy). 2021. Chapman & Hall/CRC Press (Order: here or here)
 
 In our book, we introduce the Tidy approach to programming in R for social science research to help quantitative researchers develop a modern technical toolbox. We include hundreds of lines of code to demonstrate a suite of techniques for developing and debugging an efficient social science research workflow. To deepen our dedication to teaching Tidy best practices for conducting social science research in R, we include numerous examples using real world data including the American National Election Study and the World Indicators Data.
 
 
-1. *Unsupervised Machine Learning for Clustering in Political and Social Research*. 2020. Cambridge University Press (Order: CUP or Amazon)
+* *Unsupervised Machine Learning for Clustering in Political and Social Research*. 2020. Cambridge University Press (Order: CUP or Amazon)
 
 In the age of data-driven problem-solving, applying sophisticated computational tools for explaining substantive phenomena is a valuable skill. Yet, application of methods assumes an understanding of the data, structure, and patterns that influence the broader research program. My book offers researchers and teachers an introduction to clustering, which is a prominent class of unsupervised machine learning for exploring and understanding latent, non-random structure in data. A suite of widely used clustering techniques is covered, in addition to R code and real data to facilitate interaction with the concepts. Upon setting the stage for clustering, the following algorithms are detailed: agglomerative hierarchical clustering, k-means clustering, Gaussian mixture models, and at a higher-level, fuzzy C-means clustering, DBSCAN, and partitioning around medoids (k-medoids) clustering.
 
