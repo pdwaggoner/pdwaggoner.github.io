@@ -9,7 +9,7 @@ ___________
 * `plotmm`: Tidy Tools for Visualizing Mixture Models. with Fong Chan and Lu Zhang
 * `amerika`: American politics-inspired color palette generator
 * Comparing Unsupervised Machine Learning Clustering Techniques. with Marc Lavielle (Two Shiny Apps; and a paper)
-* `plotGMM`: Tools for visualizing Gaussian mixture models in R. with Fong Chun Chan; *No longer actively developed in favor of new "plotmm" package*
+* `plotGMM`: Tools for visualizing Gaussian mixture models in R. with Fong Chun Chan; *Not actively developed given* `plotmm`
 * `rIP`: Validating IP addresses to detect fraud in online surveys. with Ryan Kennedy and Scott Clifford
 * `hhi`: Calculating & visualizing Herfindahl-Hirschman Index scores
 * `purging`: Purging mediation effects from independent variables
