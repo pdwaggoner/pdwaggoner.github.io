@@ -5,18 +5,18 @@ ___________
 
 ### Software (On CRAN and/or GitHub)
 
-* `easystats`: An ecosystem of packages making statistics in R easy (contributor)
-* `plotmm`: Tidy Tools for Visualizing Mixture Models. with Fong Chan and Lu Zhang
-* `amerika`: American politics-inspired color palette generator
-* Comparing Unsupervised Machine Learning Clustering Techniques. with Marc Lavielle (Two Shiny Apps; and a paper)
-* `plotGMM`: Tools for visualizing Gaussian mixture models in R. with Fong Chun Chan; *Not actively developed given* `plotmm`
-* `rIP`: Validating IP addresses to detect fraud in online surveys. with Ryan Kennedy and Scott Clifford
-* `hhi`: Calculating & visualizing Herfindahl-Hirschman Index scores
-* `purging`: Purging mediation effects from independent variables
-* `mlbstats`: Major league baseball player metrics calculator
+* [`easystats`](https://github.com/easystats){:target="_blank"}: An ecosystem of packages making statistics in R easy (contributor)
+* [`plotmm`](https://CRAN.R-project.org/package=plotmm){:target="_blank"}: Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
+* [`amerika`](https://CRAN.R-project.org/package=amerika){:target="_blank"}: American politics-inspired color palette generator
+* Comparing Unsupervised Machine Learning Clustering Techniques (with Marc Lavielle; [Two Shiny Apps](https://github.com/pdwaggoner/clustering_Shiny){:target="_blank"})
+* [`plotGMM`](https://CRAN.R-project.org/package=plotGMM){:target="_blank"}: Tools for visualizing Gaussian mixture models in R (with Fong Chun Chan; *Not actively developed given* `plotmm`)
+* [`rIP`](https://CRAN.R-project.org/package=rIP){:target="_blank"}: Validating IP addresses to detect fraud in online surveys (with Ryan Kennedy and Scott Clifford)
+* [`hhi`](https://CRAN.R-project.org/package=hhi){:target="_blank"}: Calculating & visualizing Herfindahl-Hirschman Index scores
+* [`purging`](https://CRAN.R-project.org/package=purging){:target="_blank"}: Purging mediation effects from independent variables
+* [`mlbstats`](https://CRAN.R-project.org/package=mlbstats){:target="_blank"}: Major league baseball player metrics calculator
 
 ### Miscellaneous Code
 
-* Building Neural Networks in R with External Machine Learning Engines: Code and data from my talk at Government Advances in Statistical Programming (GASP)
-* Introduction to Computation in R: Files and Scripts from my Intro to R course at William & Mary
-* Learning LaTeX: Files walking users through the basics of LaTeX; Based on my seminar at Houston
+* Building Neural Networks in R with External Machine Learning Engines: [Code](https://github.com/pdwaggoner/gasp2020){:target="_blank"} and data from my talk at Government Advances in Statistical Programming (GASP)
+* Introduction to Computation in R: [Code](https://github.com/pdwaggoner/Intro-to-R){:target="_blank"} from my Intro to R course at William & Mary
+* Learning LaTeX: [Code](https://github.com/pdwaggoner/LaTeX-Workshop){:target="_blank"} covering the basics of LaTeX from my workshop at Houston
