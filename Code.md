@@ -5,7 +5,7 @@ ___________
 
 ### Software (On CRAN and/or GitHub)
 
-* [`easystats`](https://github.com/easystats){:target="_blank"}: An ecosystem of packages making statistics in R easy (contributor)
+* <a class="link-pink"  href="#url" target="_blank">`easystats`</a>: An ecosystem of packages making statistics in R easy (contributor)
 * [`plotmm`](https://CRAN.R-project.org/package=plotmm){:target="_blank"}: Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
 * [`amerika`](https://CRAN.R-project.org/package=amerika){:target="_blank"}: American politics-inspired color palette generator
 * Comparing Unsupervised Machine Learning Clustering Techniques (with Marc Lavielle; [Two Shiny Apps](https://github.com/pdwaggoner/clustering_Shiny){:target="_blank"})
