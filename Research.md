@@ -30,7 +30,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [Community Detection in Google Searches Related to 'Coronavirus'](https://jds-online.org/journal/JDS/article/122/info){:target="_blank"}. 2021. *Journal of Data Science*
 
-* Are there Racial Disparities in Fatal Police Shootings? Exploration with Uniform Manifold Approximation and Projection. In the Book of Abstracts of the 9th International Conference on Complex Networks and their Applications (COMPLEX NETWORKS 2020)
+* Are there Racial Disparities in Fatal Police Shootings? Exploration with Uniform Manifold Approximation and Projection. In the *Book of Abstracts of the 9th International Conference on Complex Networks and their Applications* (COMPLEX NETWORKS 2020)
 
 * [Exploring Ideological Signals from Cosponsorship](https://www.tandfonline.com/doi/full/10.1080/0022250X.2020.1787406){:target="_blank"} (with Carol Ann Downes). 2020. *Journal of Mathematical Sociology*
 
@@ -69,8 +69,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422){:target="_blank"} (with Alec MacMillen)
 
 * Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong)
-
-### Manuscripts in Preparation (Selected)
+        
+### Manuscripts in Preparation (Selected; See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"})
 
 * Extending Uniform Manifold Approximation and Projection for Anomaly Detection (with Leland McInnes)
 
