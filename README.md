@@ -1,4 +1,4 @@
-#### [Home](https://pdwaggoner.github.io) | [Research](/Research.md) | [Code](/Code.md) | [Teaching](/Teach.md) | [Email](mailto:pdwaggoner@uchicago.edu){:target="_blank"}
+#### [Home](https://pdwaggoner.github.io) | [Research](/Research.md) | [Code](/Code.md) | [Teaching](/Teach.md)
 ___________
 
 ## Welcome!
