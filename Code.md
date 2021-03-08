@@ -5,7 +5,6 @@ ___________
 
 ### Software (On CRAN and/or GitHub)
 
-* [`easystats`](https://github.com/easystats){:target="_blank"}: An ecosystem of packages making statistics in R easy (contributor)
 * [`plotmm`](https://CRAN.R-project.org/package=plotmm){:target="_blank"}: Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
 * [`amerika`](https://CRAN.R-project.org/package=amerika){:target="_blank"}: American politics-inspired color palette generator
 * Comparing Unsupervised Machine Learning Clustering Techniques (with Marc Lavielle; [Two Shiny Apps](https://github.com/pdwaggoner/clustering_Shiny){:target="_blank"})
@@ -14,6 +13,7 @@ ___________
 * [`hhi`](https://CRAN.R-project.org/package=hhi){:target="_blank"}: Calculating & visualizing Herfindahl-Hirschman Index scores
 * [`purging`](https://CRAN.R-project.org/package=purging){:target="_blank"}: Purging mediation effects from independent variables
 * [`mlbstats`](https://CRAN.R-project.org/package=mlbstats){:target="_blank"}: Major league baseball player metrics calculator
+* [`easystats`](https://github.com/easystats){:target="_blank"}: An ecosystem of packages making statistics in R easy (author & contributor)
 
 ### Miscellaneous Code
 
