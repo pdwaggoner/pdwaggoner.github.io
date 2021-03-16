@@ -26,7 +26,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19](./resfiles/Waggoner_FINAL CCSE Manuscript.pdf){:target="_blank"}. Forthcoming, The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from *Purdue University Press*
 
-* [Pandemic Policymaking](https://ieeexplore.ieee.org/abstract/document/9355031){:target="_blank"}. 2021. *Journal of Social Computing*
+* [Pandemic Policymaking](https://ieeexplore.ieee.org/abstract/document/9355031){:target="_blank"}. 2021. *Journal of Social Computing*, 2(1)
 
 * [Community Detection in Google Searches Related to 'Coronavirus'](https://jds-online.org/journal/JDS/article/122/info){:target="_blank"}. 2021. *Journal of Data Science*
 
