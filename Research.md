@@ -66,7 +66,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Manuscripts Under Review
 
-* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422){:target="_blank"} (with Alec MacMillen)
+* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422){:target="_blank"} (with Alec MacMillen), Revised and resubmitted at the *Journal of Computational Social Science*
 
 * Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong)
         
