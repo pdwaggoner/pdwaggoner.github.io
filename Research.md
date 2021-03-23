@@ -68,6 +68,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422){:target="_blank"} (with Alec MacMillen), Revised and resubmitted at the *Journal of Computational Social Science*
 
+* [Assessment, Testing and Comparison of Statistical Models using R](https://psyarxiv.com/vtq8f/){:target="_blank"} (with Daniel Lüdecke, Mattan Ben-Shachar Indrajeet Patil, and Dominique Makowski)
+
 * Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong)
         
 ### Manuscripts in Preparation (Selected) 
