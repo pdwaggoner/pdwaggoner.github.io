@@ -72,8 +72,6 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong)
 
-* Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
-
 ### Manuscripts in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
 
