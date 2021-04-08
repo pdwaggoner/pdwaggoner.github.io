@@ -15,7 +15,7 @@ ___________
 ### College of William & Mary
 
 * Data Science & Politics (Senior Seminar)
-* Introduction to Computation in R (Graduate; Course Scripts)
+* Introduction to Computation in R (Graduate)
 * Research Methods
 * Introduction to Public Policy
 * Introduction to American Government & Politics
