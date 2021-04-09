@@ -22,6 +22,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
+* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422){:target="_blank"} (with Alec MacMillen). Conditionally accepted, *Journal of Computational Social Science*
+
 * Trust in Public Policy Algorithms (with Ryan Kennedy and Matthew Ward). Accepted, *Journal of Politics*
 
 * [A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19](./resfiles/Waggoner_FINAL CCSE Manuscript.pdf){:target="_blank"}. Forthcoming, The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from *Purdue University Press*
@@ -65,8 +67,6 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * [Are Samples Drawn from Mechanical Turk Valid for Research on Political Ideology?](https://journals.sagepub.com/doi/full/10.1177/2053168015622072){:target="_blank"} (with Scott Clifford and Ryan M. Jewell). 2015. *Research & Politics*, 2(4)
 
 ### Manuscripts Under Review
-
-* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422){:target="_blank"} (with Alec MacMillen), Revised and resubmitted at the *Journal of Computational Social Science*
 
 * Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong), Invited to revise and resubmit at the *Journal of Social Computing*
 
