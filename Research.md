@@ -28,6 +28,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19](./resfiles/Waggoner_FINAL CCSE Manuscript.pdf){:target="_blank"}. Forthcoming, The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from *Purdue University Press*
 
+* [performance: An R Package for Assessment, Comparison and Testing of Statistical Models](https://joss.theoj.org/papers/10.21105/joss.03139){:target="_blank"} (with Daniel Lüdecke, Mattan Ben-Shachar Indrajeet Patil, and Dominique Makowski). *Journal of Open Source Software*, 6(60)
+
 * [Pandemic Policymaking](https://ieeexplore.ieee.org/abstract/document/9355031){:target="_blank"}. 2021. *Journal of Social Computing*, 2(1)
 
 * [Community Detection in Google Searches Related to 'Coronavirus'](https://jds-online.org/journal/JDS/article/122/info){:target="_blank"}. 2021. *Journal of Data Science*
@@ -68,16 +70,14 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Manuscripts Under Review
 
-* Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong), Invited to revise and resubmit at the *Journal of Social Computing*
+* Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong). Invited to revise and resubmit at the *Journal of Social Computing*
 
-* [Assessment, Testing and Comparison of Statistical Models using R](https://psyarxiv.com/vtq8f/){:target="_blank"} (with Daniel Lüdecke, Mattan Ben-Shachar Indrajeet Patil, and Dominique Makowski)
+* Applying Dimension Reduction in Modern Data Science and Quantitative Analysis. Revised and resubmitted at *Software Impacts* 
 
 ### Manuscripts in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
 
 * Extending Uniform Manifold Approximation and Projection for Anomaly Detection (with Leland McInnes)
-
-* The Ideological Dynamics of Presidential Foreign Policy Rhetoric (with Matthew Ward)
 
 ### Other Writing (Op-Eds, Blogs, Non-Peer-Reviewed, etc.)
 
