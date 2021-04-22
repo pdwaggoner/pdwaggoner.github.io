@@ -22,9 +22,11 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
-* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422){:target="_blank"} (with Alec MacMillen). Conditionally accepted, *Journal of Computational Social Science*
+* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422){:target="_blank"} (with Alec MacMillen). Accepted, *Journal of Computational Social Science*
 
 * [Trust in Public Policy Algorithms](https://ssrn.com/abstract=3339475){:target="_blank"} (with Ryan Kennedy and Matthew Ward). Accepted, *Journal of Politics*
+
+* Applying Dimension Reduction in Modern Data Science and Quantitative Analysis. Accepted, *Software Impacts* 
 
 * [A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19](./resfiles/Waggoner_FINAL CCSE Manuscript.pdf){:target="_blank"}. Forthcoming, The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from *Purdue University Press*
 
@@ -71,8 +73,6 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 ### Manuscripts Under Review
 
 * Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong). Invited to revise and resubmit at the *Journal of Social Computing*
-
-* Applying Dimension Reduction in Modern Data Science and Quantitative Analysis. Revised and resubmitted at *Software Impacts* 
 
 ### Manuscripts in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
