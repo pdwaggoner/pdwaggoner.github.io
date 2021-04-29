@@ -26,7 +26,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [Trust in Public Policy Algorithms](https://ssrn.com/abstract=3339475){:target="_blank"} (with Ryan Kennedy and Matthew Ward). Accepted, *Journal of Politics*
 
-* Applying Dimension Reduction in Modern Data Science and Quantitative Analysis. Accepted, *Software Impacts* 
+* [Applying Dimension Reduction in Modern Data Science and Quantitative Analysis](https://www.sciencedirect.com/science/article/pii/S2665963821000233){:target="_blank"}. Forthcoming, *Software Impacts* 
 
 * [A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19](./resfiles/Waggoner_FINAL CCSE Manuscript.pdf){:target="_blank"}. Forthcoming, The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from *Purdue University Press*
 
