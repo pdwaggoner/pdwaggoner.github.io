@@ -22,7 +22,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
-* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://arxiv.org/abs/2011.06422){:target="_blank"} (with Alec MacMillen). Accepted, *Journal of Computational Social Science*
+* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://rdcu.be/ckNch){:target="_blank"} (with Alec MacMillen). *Journal of Computational Social Science*
 
 * [Trust in Public Policy Algorithms](https://ssrn.com/abstract=3339475){:target="_blank"} (with Ryan Kennedy and Matthew Ward). Accepted, *Journal of Politics*
 
