@@ -9,4 +9,4 @@ I am concurrently a research scholar at the Institute for Social and Economic Re
 
 In a former (and recent) life, I was member of the graduate computational social science ([MACSS](https://macss.uchicago.edu/directory/philip-waggoner){:target="_blank"}) faculty at the University of Chicago. Some of those syllabi can be found [here](/Teach.md).
 
-For more information, see my resume (short) or [CV](https://www.dropbox.com/s/ikt228v5lmobro2/Philip%20Waggoner_CV.pdf?dl=0){:target="_blank"} (long).
+For more information, see my [resume](https://www.dropbox.com/s/0eq237s7arqh7yv/Philip%20Waggoner_Resume.pdf?dl=0) (short) or [CV](https://www.dropbox.com/s/ikt228v5lmobro2/Philip%20Waggoner_CV.pdf?dl=0){:target="_blank"} (long).
