@@ -1,4 +1,4 @@
-#### [Home](https://pdwaggoner.github.io) | [Research](/Research.md) | [Code](/Code.md) | [Teaching](/Teach.md)
+#### [Home](https://pdwaggoner.github.io) | [Research](/Research.md) | [Code](/Code.md)
 ___________
 
 ## Research
