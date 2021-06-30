@@ -22,6 +22,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
+* Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong). Accepted, *Journal of Social Computing*
+
 * [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://rdcu.be/ckNch){:target="_blank"} (with Alec MacMillen). *Journal of Computational Social Science*
 
 * [Trust in Public Policy Algorithms](https://ssrn.com/abstract=3339475){:target="_blank"} (with Ryan Kennedy and Matthew Ward). Accepted, *Journal of Politics*
@@ -72,14 +74,12 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Manuscripts Under Review
 
-* Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong). Revised and resubmitted at the *Journal of Social Computing*
+* see: An R Package for Visualizing Statistical Models (with Daniel Lüdecke, Mattan S. Ben-Shachar, Indrajeet Patil, Brenton M. Wiernik, and Dominique Makowski)
 
 ### Manuscripts in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
 
 * Extending Uniform Manifold Approximation and Projection for Anomaly Detection (with Leland McInnes)
-
-* see: An R Package for Visualizing Statistical Models (with Daniel Lüdecke, Mattan S. Ben-Shachar, Indrajeet Patil, Brenton M. Wiernik, and Dominique Makowski)
 
 ### Other Writing (Op-Eds, Blogs, Non-Peer-Reviewed, etc.)
 
