@@ -28,6 +28,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [Trust in Public Policy Algorithms](https://ssrn.com/abstract=3339475){:target="_blank"} (with Ryan Kennedy and Matthew Ward). Accepted, *Journal of Politics*
 
+* [see: An R Package for Visualizing Statistical Models](https://joss.theoj.org/papers/10.21105/joss.03393){:target="_blank"}  (with Daniel Lüdecke, Mattan S. Ben-Shachar, Indrajeet Patil, Brenton M. Wiernik, and Dominique Makowski). 2021. *Journal of Open Source Software*, 6(64)
+
 * [A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19](./resfiles/Waggoner_FINAL CCSE Manuscript.pdf){:target="_blank"}. Forthcoming, The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from *Purdue University Press*
 
 * [Applying Dimension Reduction in Modern Data Science and Quantitative Analysis](https://doi.org/10.1016/j.simpa.2021.100075){:target="_blank"}. 2021. *Software Impacts* 
@@ -71,10 +73,6 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * [Assessing the Value of State Legislative Experience and Legislative Professionalism in National Election Performance, 1974-2010](https://www.sciencedirect.com/science/article/abs/pii/S036233191730054X){:target="_blank"}. 2017. *Social Science Journal*, 54(3)
 
 * [Are Samples Drawn from Mechanical Turk Valid for Research on Political Ideology?](https://journals.sagepub.com/doi/full/10.1177/2053168015622072){:target="_blank"} (with Scott Clifford and Ryan M. Jewell). 2015. *Research & Politics*, 2(4)
-
-### Manuscripts Under Review
-
-* see: An R Package for Visualizing Statistical Models (with Daniel Lüdecke, Mattan S. Ben-Shachar, Indrajeet Patil, Brenton M. Wiernik, and Dominique Makowski)
 
 ### Manuscripts in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
