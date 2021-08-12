@@ -5,7 +5,7 @@ ___________
 
 ### Books
 
-* [*Modern Dimension Reduction*](https://www.cambridge.org/core/elements/modern-dimension-reduction/D1506D1D7D51CC4EF375E4633D54F377){:target="_blank"}. Forthcoming, *Cambridge University Press*
+* [*Modern Dimension Reduction*](https://www.cambridge.org/core/elements/modern-dimension-reduction/D1506D1D7D51CC4EF375E4633D54F377){:target="_blank"}. 2021. *Cambridge University Press*
 
 Data are not only ubiquitous in society, but are increasingly complex both in size and dimensionality. Dimension reduction offers researchers and scholars the ability to make such complex, high dimensional data spaces simpler and more manageable. My book offers readers a suite of modern unsupervised dimension reduction techniques along with hundreds of lines of R code, to efficiently represent the original high dimensional data space in a simplified, lower dimensional subspace. Launching from the earliest dimension reduction technique principal components analysis and using real social science data, I introduce and walk readers through application of the following techniques: locally linear embedding, t-distributed stochastic neighbor embedding (t-SNE), uniform manifold approximation and projection, self-organizing maps, and deep autoencoders. The result is a well-stocked toolbox of unsupervised, nonparametric methods for tackling the complexities of high dimensional data so common in modern society. Replication code is [here](https://github.com/pdwaggoner/dimension-reduction-CUP){:target="_blank"}. 
 
