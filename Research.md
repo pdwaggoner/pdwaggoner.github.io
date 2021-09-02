@@ -22,11 +22,11 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
-* Uncovering the Online Social Structure Surrounding COVID-19 (with Robert Y. Shapiro, Sam Frederick, and Ming Gong). Accepted, *Journal of Social Computing*
-
 * [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://rdcu.be/ckNch){:target="_blank"} (with Alec MacMillen). Accepted, *Journal of Computational Social Science*
 
 * [Trust in Public Policy Algorithms](https://ssrn.com/abstract=3339475){:target="_blank"} (with Ryan Kennedy and Matthew Ward). Accepted, *Journal of Politics*
+
+* [Uncovering the Online Social Structure Surrounding COVID-19](https://ieeexplore.ieee.org/document/9520811){:target="_blank"} (with Robert Y. Shapiro, Sam Frederick, and Ming Gong). 2021. *Journal of Social Computing*, 2(2)
 
 * [see: An R Package for Visualizing Statistical Models](https://joss.theoj.org/papers/10.21105/joss.03393){:target="_blank"}  (with Daniel Lüdecke, Mattan S. Ben-Shachar, Indrajeet Patil, Brenton M. Wiernik, and Dominique Makowski). 2021. *Journal of Open Source Software*, 6(64)
 
