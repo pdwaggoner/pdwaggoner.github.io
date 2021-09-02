@@ -30,7 +30,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [see: An R Package for Visualizing Statistical Models](https://joss.theoj.org/papers/10.21105/joss.03393){:target="_blank"}  (with Daniel Lüdecke, Mattan S. Ben-Shachar, Indrajeet Patil, Brenton M. Wiernik, and Dominique Makowski). 2021. *Journal of Open Source Software*, 6(64)
 
-* [A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19](./resfiles/Waggoner_FINAL CCSE Manuscript.pdf){:target="_blank"}. 2021. The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from *Purdue University Press*
+* [A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COVID-19](./resfiles/ccse_waggoner.pdf){:target="_blank"}. 2021. The Year in C-SPAN Archives Research, Vol. 7, Edited Volume from *Purdue University Press*
 
 * [Applying Dimension Reduction in Modern Data Science and Quantitative Analysis](https://doi.org/10.1016/j.simpa.2021.100075){:target="_blank"}. 2021. *Software Impacts*, 8, 100075
 
