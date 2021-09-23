@@ -42,7 +42,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * Are there Racial Disparities in Fatal Police Shootings? Exploration with Uniform Manifold Approximation and Projection. In the *Book of Abstracts of the 9th International Conference on Complex Networks and their Applications* (COMPLEX NETWORKS 2020)
 
-* [Exploring Ideological Signals from Cosponsorship](https://www.tandfonline.com/doi/full/10.1080/0022250X.2020.1787406){:target="_blank"} (with Carol Ann Downes). 2020. *Journal of Mathematical Sociology*
+* [Exploring Ideological Signals from Cosponsorship](https://www.tandfonline.com/doi/full/10.1080/0022250X.2020.1787406){:target="_blank"} (with Carol Ann Downes). 2020. *Journal of Mathematical Sociology*, 45(4)
 
 * [Measuring Media Freedom: An Item Response Theory Analysis of Existing Indicators](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/measuring-media-freedom-an-item-response-theory-analysis-of-existing-indicators/4A6D5AE5E6F4E78D0642BFF882C1FBF6){:target="_blank"} (with Jonathan Solis; replication data [here](./resfiles/MSFS-estimates_full-3x2000.csv)). 2020. *British Journal of Political Science*
 
