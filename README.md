@@ -3,10 +3,10 @@ ___________
 
 ## Welcome!
 
-My name is Philip Waggoner and I am a data scientist at [Edison Software](https://www.edison.tech/){:target="_blank"}. 
+My name is Philip Waggoner and I am the Director of Data Science at YouGov America.
 
 I am also a research scholar at the Institute for Social and Economic Research and Policy ([ISERP](http://iserp.columbia.edu/people/philip-d-waggoner){:target="_blank"}) at Columbia University, where I have the pleasure of working a lot with [Robert Y. Shapiro](https://www.sipa.columbia.edu/faculty-research/faculty-directory/robert-shapiro){:target="_blank"}.
 
-In a recent former life, I was a member of the graduate computational social science faculty at the University of Chicago. Some of my old syllabi can be found [here](/Teach.md).
+Formerly, I was a data scientist at Edison Software (now Yipit Data), and before that a member of the graduate computational social science faculty at the University of Chicago. Some of my old syllabi can be found [here](/Teach.md).
 
 For more information, see my [resume](https://www.dropbox.com/s/0eq237s7arqh7yv/Philip%20Waggoner_Resume.pdf?dl=0){:target="_blank"} (short) or [CV](https://www.dropbox.com/s/ikt228v5lmobro2/Philip%20Waggoner_CV.pdf?dl=0){:target="_blank"} (long).
