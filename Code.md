@@ -12,7 +12,7 @@ ___________
 * [`hhi`](https://CRAN.R-project.org/package=hhi){:target="_blank"}: Calculating & visualizing Herfindahl-Hirschman Index scores
 * [`purging`](https://CRAN.R-project.org/package=purging){:target="_blank"}: Purging mediation effects from independent variables
 * [`mlbstats`](https://CRAN.R-project.org/package=mlbstats){:target="_blank"}: Major league baseball player metrics calculator
-* [`plotGMM`](https://CRAN.R-project.org/package=plotGMM){:target="_blank"}: Tools for visualizing Gaussian mixture models in R (with Fong Chun Chan; *Not actively developed in favor of* `plotmm`)
+* [`plotGMM`](https://CRAN.R-project.org/package=plotGMM){:target="_blank"}: Tools for visualizing Gaussian mixture models in R (with Fong Chun Chan; *Retired in favor of* `plotmm`)
 * [`easystats`](https://github.com/easystats){:target="_blank"}: An ecosystem of packages making statistics in R easy (author & contributor)
 
 ### Miscellaneous Code
