@@ -22,9 +22,9 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
-* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://rdcu.be/ckNch){:target="_blank"} (with Alec MacMillen). Accepted, *Journal of Computational Social Science*
+* [Trust in Public Policy Algorithms](https://ssrn.com/abstract=3339475){:target="_blank"} (with Ryan Kennedy and Matthew Ward). Forthcoming, *Journal of Politics*
 
-* [Trust in Public Policy Algorithms](https://ssrn.com/abstract=3339475){:target="_blank"} (with Ryan Kennedy and Matthew Ward). Accepted, *Journal of Politics*
+* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://rdcu.be/ckNch){:target="_blank"} (with Alec MacMillen). *Journal of Computational Social Science*, 1-21
 
 * [Uncovering the Online Social Structure Surrounding COVID-19](https://ieeexplore.ieee.org/document/9520811){:target="_blank"} (with Robert Y. Shapiro, Sam Frederick, and Ming Gong). 2021. *Journal of Social Computing*, 2(2)
 
@@ -44,7 +44,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [Exploring Ideological Signals from Cosponsorship](https://www.tandfonline.com/doi/full/10.1080/0022250X.2020.1787406){:target="_blank"} (with Carol Ann Downes). 2020. *Journal of Mathematical Sociology*, 45(4)
 
-* [Measuring Media Freedom: An Item Response Theory Analysis of Existing Indicators](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/measuring-media-freedom-an-item-response-theory-analysis-of-existing-indicators/4A6D5AE5E6F4E78D0642BFF882C1FBF6){:target="_blank"} (with Jonathan Solis; replication data [here](./resfiles/MSFS-estimates_full-3x2000.csv)). 2020. *British Journal of Political Science*
+* [Measuring Media Freedom: An Item Response Theory Analysis of Existing Indicators](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/measuring-media-freedom-an-item-response-theory-analysis-of-existing-indicators/4A6D5AE5E6F4E78D0642BFF882C1FBF6){:target="_blank"} (with Jonathan Solis; replication data [here](./resfiles/MSFS-estimates_full-3x2000.csv)). 2020. *British Journal of Political Science*, 51(4)
 
 * [Exploring the Effects of Allegations of Sexual Misconduct on Political Careers](https://www.tandfonline.com/doi/abs/10.1080/03623319.2020.1814981){:target="_blank"} (with Andrew Creekmore). 2020. *Social Science Journal*
 
