@@ -80,6 +80,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * Extending Uniform Manifold Approximation and Projection for Anomaly Detection (with Leland McInnes)
 
 ### Other Writing (Op-Eds, Blogs, Non-Peer-Reviewed, etc.)
+* [Batched Imputation for High Dimensional Missing Data Problems](https://www.r-bloggers.com/2022/03/batched-imputation-for-high-dimensional-missing-data-problems/){:target="_blank"}. R-Bloggers
 
 * [Measuring Aggregate Policy Priorities of the U.S. House of Representatives](https://polmeth.org/blog/measuring-aggregate-policy-priorities-us-house-representatives){:target="_blank"}. The Political Methodologist, Blog of the Society for Political Methodology
 
