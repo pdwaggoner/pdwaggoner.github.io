@@ -116,6 +116,6 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Dormant Projects (Selected)
 
-* Bypassing Limitations of Probability Models in Binary Classification Tasks with Support Vector Machines (with Abhishek Pandit and Lynette Dang)
+* Extending Uniform Manifold Approximation and Projection for Anomaly Detection (with Leland McInnes)
 
-* Adapting Neural Networks to Explain Legislative Productivity (with Juntao Wang)
+* Bypassing Limitations of Probability Models in Binary Classification Tasks with Support Vector Machines (with Abhishek Pandit and Lynette Dang)
