@@ -74,10 +74,20 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [Are Samples Drawn from Mechanical Turk Valid for Research on Political Ideology?](https://journals.sagepub.com/doi/full/10.1177/2053168015622072){:target="_blank"} (with Scott Clifford and Ryan M. Jewell). 2015. *Research & Politics*, 2(4)
 
+### Manuscripts Under Review
+
+* Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
+
+* The Role of Personality in Trust in Public Policy Automation (with Ryan Kennedy)
+
+* Applying Regularization to Sort Between Theoretical Claims (with Joanna Schroeder)
+
+* The Paradox of Algorithms and Blame on Public Decisionmakers (with Ryan Kennedy and Adam Ozer)
+
 ### Manuscripts in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
 
-* Extending Uniform Manifold Approximation and Projection for Anomaly Detection (with Leland McInnes)
+* Toward Democratic Algorithm Development
 
 ### Other Writing (Op-Eds, Blogs, Non-Peer-Reviewed, etc.)
 * [Batched Imputation for High Dimensional Missing Data Problems](https://www.r-bloggers.com/2022/03/batched-imputation-for-high-dimensional-missing-data-problems/){:target="_blank"}. R-Bloggers
