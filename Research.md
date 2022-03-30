@@ -90,6 +90,10 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * Toward Democratic Algorithm Development
 
 ### Other Writing (Op-Eds, Blogs, Non-Peer-Reviewed, etc.)
+##### >> Note: regular contributor to the [ASA CCD blog](https://ccdportfolio.netlify.app/blog/){:target="_blank"} and [R-Bloggers](https://www.r-bloggers.com/){:target="_blank"}. Selected posts listed here.
+
+* [Indexing from 0? The Value of R and Python for Data Science](https://ccdportfolio.netlify.app/blog/r-py/){:target="_blank"}. American Statistical Association CCD Portfolio Project Blog
+
 * [Batched Imputation for High Dimensional Missing Data Problems](https://www.r-bloggers.com/2022/03/batched-imputation-for-high-dimensional-missing-data-problems/){:target="_blank"}. R-Bloggers
 
 * [Measuring Aggregate Policy Priorities of the U.S. House of Representatives](https://polmeth.org/blog/measuring-aggregate-policy-priorities-us-house-representatives){:target="_blank"}. The Political Methodologist, Blog of the Society for Political Methodology
