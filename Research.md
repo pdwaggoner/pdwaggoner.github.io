@@ -78,6 +78,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * The Role of Personality in Trust in Public Policy Automation (with Ryan Kennedy)
 
+* A Batch Process for High Dimensional Imputation
+
 * Applying Regularization to Sort Between Theoretical Claims (with Joanna Schroeder)
 
 * The Paradox of Algorithms and Blame on Public Decisionmakers (with Ryan Kennedy and Adam Ozer)
