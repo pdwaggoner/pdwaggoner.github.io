@@ -76,8 +76,6 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Manuscripts Under Review
 
-* Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
-
 * The Role of Personality in Trust in Public Policy Automation (with Ryan Kennedy)
 
 * Applying Regularization to Sort Between Theoretical Claims (with Joanna Schroeder)
@@ -123,3 +121,5 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * Extending Uniform Manifold Approximation and Projection for Anomaly Detection (with Leland McInnes)
 
 * Bypassing Limitations of Probability Models in Binary Classification Tasks with Support Vector Machines (with Abhishek Pandit and Lynette Dang)
+
+* Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
