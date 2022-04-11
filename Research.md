@@ -22,6 +22,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
+* The Role of Personality in Trust in Public Policy Automation (with Ryan Kennedy). Accepted. *Journal of Behavioral Data Science*
+ 
 * [Trust in Public Policy Algorithms](https://www.journals.uchicago.edu/doi/10.1086/716283){:target="_blank"} (with Ryan Kennedy and Matthew Ward). 2022. *Journal of Politics*, 84(2)
 
 * [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://rdcu.be/ckNch){:target="_blank"} (with Alec MacMillen). 2021. *Journal of Computational Social Science*
@@ -75,8 +77,6 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * [Are Samples Drawn from Mechanical Turk Valid for Research on Political Ideology?](https://journals.sagepub.com/doi/full/10.1177/2053168015622072){:target="_blank"} (with Scott Clifford and Ryan M. Jewell). 2015. *Research & Politics*, 2(4)
 
 ### Manuscripts Under Review
-
-* The Role of Personality in Trust in Public Policy Automation (with Ryan Kennedy)
 
 * A Batch Process for High Dimensional Imputation
 
