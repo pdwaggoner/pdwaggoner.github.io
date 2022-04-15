@@ -3,7 +3,7 @@ ___________
 
 ## Open-Source Code and Software
 
-### Software (On CRAN and/or GitHub)
+### Software (On [CRAN](https://www.r-pkg.org/maint/philip.waggoner@gmail.com) and/or [GitHub](https://github.com/pdwaggoner))
 
 * [`hdImpute`](https://github.com/pdwaggoner/hdImpute){:target="_blank"}: Batched High Dimensional Imputation via Chained Random Forests
 * [`plotmm`](https://CRAN.R-project.org/package=plotmm){:target="_blank"}: Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
