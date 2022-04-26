@@ -11,7 +11,7 @@ Formerly, I was a data scientist at Edison Software (now Yipit Data), and before
 
 For more information, see my [resume](https://www.dropbox.com/s/0eq237s7arqh7yv/Philip%20Waggoner_Resume.pdf?dl=0){:target="_blank"} (short) or [CV](https://www.dropbox.com/s/ikt228v5lmobro2/Philip%20Waggoner_CV.pdf?dl=0){:target="_blank"} (long).
 
-#### American Statistical Association Portfolio Project
+### >> American Statistical Association Portfolio Project
 
 A side project I am passionate about is the Portfolio Project, which is a technology resource from the *American Statistical Association* Committee on Career Development (CCD). 
 
