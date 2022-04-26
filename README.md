@@ -3,7 +3,7 @@ ___________
 
 ## Welcome!
 
-My name is Philip Waggoner and I am the Director of Data Science at [YouGov America](https://today.yougov.com/?utm_source=twitter&utm_medium=twitter_link&utm_campaign=profile_bio_link), and an Adjunct Professor of Data Science at the [University of Virginia](https://datascience.virginia.edu/), and the [University of Denver](https://ritchieschool.du.edu/academics-education/gr-programs/ms-data-science).
+My name is Philip Waggoner and I am the Director of Data Science at [YouGov America](https://today.yougov.com/?utm_source=twitter&utm_medium=twitter_link&utm_campaign=profile_bio_link){:target="_blank"}, and an Adjunct Professor of Data Science at the [University of Virginia](https://datascience.virginia.edu/){:target="_blank"}, and the [University of Denver](https://ritchieschool.du.edu/academics-education/gr-programs/ms-data-science){:target="_blank"}.
 
 I am also a research scholar at the Institute for Social and Economic Research and Policy ([ISERP](http://iserp.columbia.edu/people/philip-d-waggoner){:target="_blank"}) at Columbia University, where I have the pleasure of working a lot with [Robert Y. Shapiro](https://www.sipa.columbia.edu/faculty-research/faculty-directory/robert-shapiro){:target="_blank"}.
 
@@ -13,7 +13,7 @@ For more information, see my [resume](https://www.dropbox.com/s/0eq237s7arqh7yv/
 
 #### >> American Statistical Association Portfolio Project
 
-A side project I am passionate about is the Portfolio Project, which is a technology resource from the *American Statistical Association* Committee on Career Development (CCD). 
+On the side, I am excited about the `Portfolio Project`, which is a technology resource from the *American Statistical Association* Committee on Career Development (CCD). 
 
 I built, maintain, and occasionally post at the CCD's [Portfolio Project blog](https://ccdportfolio.netlify.app/){:target="_blank"}. 
 
