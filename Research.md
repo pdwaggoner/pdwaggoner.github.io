@@ -22,7 +22,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
-* The Role of Personality in Trust in Public Policy Automation (with Ryan Kennedy). Accepted. *Journal of Behavioral Data Science*
+* [The Role of Personality in Trust in Public Policy Automation](./resfiles/Waggoner-proof_JBDS.pdf){:target="_blank"} (with Ryan Kennedy). Forthcoming, *Journal of Behavioral Data Science*
  
 * [Trust in Public Policy Algorithms](https://www.journals.uchicago.edu/doi/10.1086/716283){:target="_blank"} (with Ryan Kennedy and Matthew Ward). 2022. *Journal of Politics*, 84(2)
 
