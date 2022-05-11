@@ -3,7 +3,7 @@ ___________
 
 ## Welcome!
 
-My name is Philip Waggoner and I am the Director of Data Science at [YouGov America](https://today.yougov.com/?utm_source=twitter&utm_medium=twitter_link&utm_campaign=profile_bio_link){:target="_blank"}, and an Adjunct Professor of Data Science at the [University of Virginia](https://datascience.virginia.edu/){:target="_blank"}.
+My name is Philip Waggoner and I am the Director of Data Science at [YouGov America](https://today.yougov.com/?utm_source=twitter&utm_medium=twitter_link&utm_campaign=profile_bio_link){:target="_blank"}, and an Adjunct Professor of Data Science at the [University of Virginia](https://datascience.virginia.edu/){:target="_blank"}. 
 
 I am also a research scholar at the Institute for Social and Economic Research and Policy at [Columbia University](http://iserp.columbia.edu/people/philip-d-waggoner){:target="_blank"}, where I have the pleasure of working a lot with [Robert Y. Shapiro](https://www.sipa.columbia.edu/faculty-research/faculty-directory/robert-shapiro){:target="_blank"}.
 
