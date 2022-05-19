@@ -26,7 +26,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
  
 * [Trust in Public Policy Algorithms](https://www.journals.uchicago.edu/doi/10.1086/716283){:target="_blank"} (with Ryan Kennedy and Matthew Ward). 2022. *Journal of Politics*, 84(2)
 
-* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://rdcu.be/ckNch){:target="_blank"} (with Alec MacMillen). 2021. *Journal of Computational Social Science*
+* [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://rdcu.be/ckNch){:target="_blank"} (with Alec MacMillen). 2022. *Journal of Computational Social Science*, 5, 89–109
 
 * [Uncovering the Online Social Structure Surrounding COVID-19](https://ieeexplore.ieee.org/document/9520811){:target="_blank"} (with Robert Y. Shapiro, Sam Frederick, and Ming Gong). 2021. *Journal of Social Computing*, 2(2)
 
