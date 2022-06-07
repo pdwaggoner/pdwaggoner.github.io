@@ -27,9 +27,9 @@ ___________
 
 ### Graduate Teaching Assistant
 
+* Advanced Multivariate Statistics (Graduate, University of Houston)
 * Quantitative Methods I (Graduate, University of Houston)
 * Statistics for Political Scientists (Undergraduate, University of Houston)
-* Advanced Multivariate Statistics (Graduate, University of Houston)
 * Statistical Analysis (Graduate, University of Colorado, Denver)
 * Research Analytic Methods (Graduate, University of Colorado, Denver)
 * Crime and Media (Undergraduate, University of Colorado, Denver)
