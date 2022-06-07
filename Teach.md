@@ -5,12 +5,12 @@ ___________
 
 ### University of Chicago
 
-* Unsupervised Machine Learning (Autumn 2019, Spring 2021)
-* Perspectives on Computational Modeling (Winter 2020, 2021)
-* Introduction to Machine Learning (Winter 2020, 2021)
-* Data Mining & Data Visualization for the Social Sciences (Summer 2020; Co-taught with Benjamin Soltoff)
-* Perspectives on Computational Research (Spring 2020, 2021; Co-taught with Jon Clindaniel & Benjamin Soltoff)
-* Computational Methods for American Politics (Autumn 2019)
+* Unsupervised Machine Learning
+* Perspectives on Computational Modeling
+* Introduction to Machine Learning
+* Data Mining & Data Visualization for the Social Sciences (Co-taught with Ben Soltoff)
+* Perspectives on Computational Research (Co-taught with Jon Clindaniel & Ben Soltoff)
+* Computational Methods for American Politics
 
 ### College of William & Mary
 
