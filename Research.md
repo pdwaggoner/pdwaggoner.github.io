@@ -22,9 +22,9 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
-* [The Role of Personality in Trust in Public Policy Automation](./resfiles/Waggoner-proof_JBDS.pdf){:target="_blank"} (with Ryan Kennedy). 2022. *Journal of Behavioral Data Science*, 2(1)
- 
 * [Trust in Public Policy Algorithms](https://www.journals.uchicago.edu/doi/10.1086/716283){:target="_blank"} (with Ryan Kennedy and Matthew Ward). 2022. *Journal of Politics*, 84(2)
+
+* [The Role of Personality in Trust in Public Policy Automation](./resfiles/Waggoner-proof_JBDS.pdf){:target="_blank"} (with Ryan Kennedy). 2022. *Journal of Behavioral Data Science*, 2(1)
 
 * [Pursuing Open-Source Development of Predictive Algorithms: The Case of Criminal Sentencing Algorithms](https://rdcu.be/ckNch){:target="_blank"} (with Alec MacMillen). 2022. *Journal of Computational Social Science*, 5, 89–109
 
