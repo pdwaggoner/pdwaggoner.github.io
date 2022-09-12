@@ -7,7 +7,7 @@ My name is Philip Waggoner and I am the Director of Data Science at [YouGov Amer
 
 I am also a research scholar at the Institute for Social and Economic Research and Policy at [Columbia University](http://iserp.columbia.edu/people/philip-d-waggoner){:target="_blank"}, where I have the pleasure of working a lot with [Robert Y. Shapiro](https://www.sipa.columbia.edu/faculty-research/faculty-directory/robert-shapiro){:target="_blank"}.
 
-Formerly, I was a data scientist at Edison Software (now Yipit Data), and before that a "full-time academic" as a member of the graduate computational social science faculty at the University of Chicago. Some of my old courses can be found [here](/Teach.md).
+Formerly, I was a data scientist at Edison Software (now Yipit Data), and before that a member of the graduate computational social science faculty at the University of Chicago.
 
 For more information, see my [resume](https://www.dropbox.com/s/cqkdj0mmceglh4v/Philip%20Waggoner_Resume.pdf?dl=0){:target="_blank"} (short) or [CV](https://www.dropbox.com/s/rs5guiosqpr1pji/Philip%20Waggoner_CV.pdf?dl=0){:target="_blank"} (long).
 
