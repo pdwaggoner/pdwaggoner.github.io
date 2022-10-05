@@ -9,7 +9,7 @@ I am also a research scholar at the Institute for Social and Economic Research a
 
 Formerly, I was a data scientist at Edison Software (now Yipit Data), and before that a member of the graduate computational social science faculty at the University of Chicago.
 
-For more information, see my [resume](https://www.dropbox.com/s/cqkdj0mmceglh4v/Philip%20Waggoner_Resume.pdf?dl=0){:target="_blank"} (short) or [CV](https://www.dropbox.com/s/rs5guiosqpr1pji/Philip%20Waggoner_CV.pdf?dl=0){:target="_blank"} (long).
+For more information, see my [resume](https://www.dropbox.com/s/cqkdj0mmceglh4v/Philip%20Waggoner_Resume.pdf?dl=0){:target="_blank"} (short) or [CV](https://www.dropbox.com/s/c9sa17y6j4y5o45/Philip%20Waggoner_CV.pdf?dl=0){:target="_blank"} (long).
 
 #### >> American Statistical Association Portfolio Project
 
