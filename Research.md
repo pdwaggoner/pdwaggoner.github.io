@@ -78,11 +78,9 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Manuscripts Under Review
 
-* A Batch Process for High Dimensional Imputation
+* A Batch Process for High Dimensional Imputation. Invited to Revised and Resubmit at *Computational Statistics*
 
 * Applying Regularization to Sort Between Theoretical Claims (with Joanna Schroeder)
-
-* Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
 
 ### Manuscripts in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
@@ -121,6 +119,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * [An Introductory Guide to LaTeX](https://github.com/pdwaggoner/LaTeX-Workshop){:target="_blank"}.
 
 ### Dormant Projects (Selected)
+
+* Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
 
 * Extending Uniform Manifold Approximation and Projection for Anomaly Detection (with Leland McInnes)
 
