@@ -2,7 +2,7 @@
 ___________
 
 ## Open-Source Code and Software
-##### >> Over 126,500 downloads of original software as of July 2022
+##### >> Over 127k downloads of original software as of August 2022
 
 ### Software (On [CRAN](https://www.r-pkg.org/maint/philip.waggoner@gmail.com){:target="_blank"} and/or [GitHub](https://github.com/pdwaggoner){:target="_blank"})
 
