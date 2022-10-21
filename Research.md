@@ -80,7 +80,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * A Batch Process for High Dimensional Imputation. Invited to Revised and Resubmit at *Computational Statistics*
 
-* Applying Regularization to Sort Between Theoretical Claims (with Joanna Schroeder)
+* Applying Regularization for Feature and Theory Selection (with Joanna Schroeder)
 
 ### Manuscripts in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
