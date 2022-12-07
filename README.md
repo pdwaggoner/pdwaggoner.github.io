@@ -10,9 +10,3 @@ I am also a research scholar at the Institute for Social and Economic Research a
 Prior to entering industry as a practicing data scientist, I was a member of the graduate computational social science faculty at the University of Chicago.
 
 For more information, see my [resume](https://www.dropbox.com/s/cqkdj0mmceglh4v/Philip%20Waggoner_Resume.pdf?dl=0){:target="_blank"} (short) or [CV](https://www.dropbox.com/s/c9sa17y6j4y5o45/Philip%20Waggoner_CV.pdf?dl=0){:target="_blank"} (long).
-
-#### >> American Statistical Association Portfolio Project
-
-On the side, I am excited about the [Portfolio Project](https://ccdportfolio.netlify.app/){:target="_blank"}, which is a technology resource I built and maintain as a member of the *American Statistical Association* Committee on Career Development. 
-
-*Please [reach out directly](mailto:philip.waggoner@yougov.com)* if you'd like to contribute a post to the Portfolio Project blog re: data science, statistics, professional development, practical interaction with technology, etc.
