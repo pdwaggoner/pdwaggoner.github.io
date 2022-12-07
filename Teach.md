@@ -1,7 +1,16 @@
-#### [Home](https://pdwaggoner.github.io) | [Research](/Research.md) | [Code](/Code.md)
+#### [Home](https://pdwaggoner.github.io) | [Research](/Research.md) | [Code](/Code.md) | [ASA PP](/ASA.md)
 ___________
 
 ## Teaching
+
+### Northwestern University
+* Applied Statistics with R
+
+### Johns Hopkins University
+* Probability and Statistics
+
+### University of Virginia
+* MSDS Research Capstone Project Mentor
 
 ### University of Chicago
 
