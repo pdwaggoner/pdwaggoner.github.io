@@ -78,7 +78,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Manuscripts Under Review
 
-* A Batch Process for High Dimensional Imputation. Invited to Revised and Resubmit at *Computational Statistics*
+* A Batch Process for High Dimensional Imputation. Revised and resubmitted to *Computational Statistics*
 
 * Applying Regularization for Feature and Theory Selection (with Joanna Schroeder)
 
