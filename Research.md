@@ -22,6 +22,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
+* A Batch Process for High Dimensional Imputation. Forthcoming, *Computational Statistics*
+
 * [Trust in Public Policy Algorithms](https://www.journals.uchicago.edu/doi/10.1086/716283){:target="_blank"} (with Ryan Kennedy and Matthew Ward). 2022. *Journal of Politics*, 84(2)
 
 * [The Role of Personality in Trust in Public Policy Automation](./resfiles/Waggoner-proof_JBDS.pdf){:target="_blank"} (with Ryan Kennedy). 2022. *Journal of Behavioral Data Science*, 2(1)
@@ -77,8 +79,6 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * [Are Samples Drawn from Mechanical Turk Valid for Research on Political Ideology?](https://journals.sagepub.com/doi/full/10.1177/2053168015622072){:target="_blank"} (with Scott Clifford and Ryan M. Jewell). 2015. *Research & Politics*, 2(4)
 
 ### Manuscripts Under Review
-
-* A Batch Process for High Dimensional Imputation. Revised and resubmitted to *Computational Statistics*
 
 * Applying Regularization for Feature and Theory Selection (with Joanna Schroeder)
 
