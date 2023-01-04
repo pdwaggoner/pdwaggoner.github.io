@@ -22,7 +22,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
-* A Batch Process for High Dimensional Imputation. Forthcoming, *Computational Statistics*
+* [A Batch Process for High Dimensional Imputation](./resfiles/hdimpute_paper.pdf){:target="_blank"}. Forthcoming, *Computational Statistics*
 
 * [Trust in Public Policy Algorithms](https://www.journals.uchicago.edu/doi/10.1086/716283){:target="_blank"} (with Ryan Kennedy and Matthew Ward). 2022. *Journal of Politics*, 84(2)
 
