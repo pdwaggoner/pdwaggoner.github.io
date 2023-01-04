@@ -85,7 +85,9 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 ### Manuscripts in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
 
-* Toward Democratic Algorithm Development
+* Advances in Statistical Computing: From mathematical statistics to software-based data science (with Dominique Makowski)
+
+* Democratic Development of Algorithms
 
 * The Paradox of Algorithms and Blame on Public Decisionmakers (with Ryan Kennedy and Adam Ozer)
 
