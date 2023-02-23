@@ -78,16 +78,12 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [Are Samples Drawn from Mechanical Turk Valid for Research on Political Ideology?](https://journals.sagepub.com/doi/full/10.1177/2053168015622072){:target="_blank"} (with Scott Clifford and Ryan M. Jewell). 2015. *Research & Politics*, 2(4)
 
-### Manuscripts Under Review
-
-* Applying Regularization for Feature and Theory Selection (with Joanna Schroeder)
-
 ### Manuscripts in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
 
-* Advances in Statistical Computing: From mathematical statistics to software-based data science (with Dominique Makowski)
+* Where are we going with statistical computing? From mathematical statistics to collaborative data science (with Dominique Makowski)
 
-* Democratic Development of Algorithms
+* Democratic Development of Algorithms (with Robert Y. Shapiro)
 
 * The Paradox of Algorithms and Blame on Public Decisionmakers (with Ryan Kennedy and Adam Ozer)
 
@@ -121,6 +117,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * [An Introductory Guide to LaTeX](https://github.com/pdwaggoner/LaTeX-Workshop){:target="_blank"}.
 
 ### Dormant Projects (Selected)
+
+* Applying Regularization for Feature and Theory Selection (with Joanna Schroeder)
 
 * Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
 
