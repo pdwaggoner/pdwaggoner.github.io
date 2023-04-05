@@ -24,6 +24,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [A Batch Process for High Dimensional Imputation](https://link.springer.com/article/10.1007/s00180-023-01325-9){:target="_blank"}. 2023. *Computational Statistics*
 
+* Where are we going with statistical computing? From mathematical statistics to collaborative data science (with Dominique Makowski). 2023. Forthcoming, *Mathematics*
+
 * [Trust in Public Policy Algorithms](https://www.journals.uchicago.edu/doi/10.1086/716283){:target="_blank"} (with Ryan Kennedy and Matthew Ward). 2022. *Journal of Politics*, 84(2)
 
 * [The Role of Personality in Trust in Public Policy Automation](./resfiles/Waggoner-proof_JBDS.pdf){:target="_blank"} (with Ryan Kennedy). 2022. *Journal of Behavioral Data Science*, 2(1)
@@ -80,8 +82,6 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Manuscripts in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
-
-* Where are we going with statistical computing? From mathematical statistics to collaborative data science (with Dominique Makowski)
 
 * Democratic Development of Algorithms (with Robert Y. Shapiro)
 
