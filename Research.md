@@ -87,6 +87,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * The Paradox of Algorithms and Blame on Public Decisionmakers (with Ryan Kennedy and Adam Ozer)
 
+* Accuracy and Fairness in Public Policy Algorithms: A Conjoint Experiment on Policy Preferences (with Myriam Shiran, Ryan Kennedy and Adam Ozer)
+
 ### Other Writing (Op-Eds, Blogs, Non-Peer-Reviewed, etc.)
 ##### >> Note: regular contributor to the [ASA CCD blog](https://ccdportfolio.netlify.app/blog/){:target="_blank"} and [R-Bloggers](https://www.r-bloggers.com/){:target="_blank"}. Selected posts listed here.
 
