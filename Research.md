@@ -24,7 +24,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [A Batch Process for High Dimensional Imputation](https://link.springer.com/article/10.1007/s00180-023-01325-9){:target="_blank"}. 2023. *Computational Statistics*
 
-* Where are we going with statistical computing? From mathematical statistics to collaborative data science (with Dominique Makowski). 2023. Forthcoming, *Mathematics*
+* [Where are we going with statistical computing? From mathematical statistics to collaborative data science](https://www.mdpi.com/2227-7390/11/8/1821){:target="_blank"} (with Dominique Makowski). 2023. *Mathematics*, 11(8)
 
 * [Trust in Public Policy Algorithms](https://www.journals.uchicago.edu/doi/10.1086/716283){:target="_blank"} (with Ryan Kennedy and Matthew Ward). 2022. *Journal of Politics*, 84(2)
 
