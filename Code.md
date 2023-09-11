@@ -2,7 +2,7 @@
 ___________
 
 ## Open-Source Code and Software
-##### >> Over 127k downloads of original software as of August 2022
+##### >> Over 150k downloads of original software as of August 2023
 
 ### Software (On [CRAN](https://www.r-pkg.org/maint/philip.waggoner@gmail.com){:target="_blank"} and/or [GitHub](https://github.com/pdwaggoner){:target="_blank"})
 
@@ -19,6 +19,7 @@ ___________
 
 ### Miscellaneous Code
 
+* Translating Python Operations to (Mostly) Tidy R: [Code](https://github.com/pdwaggoner/python-to-tidy-R)
 * Building Neural Networks in R with External Machine Learning Engines: [Code](https://github.com/pdwaggoner/gasp2020){:target="_blank"} and data from my talk at Government Advances in Statistical Programming (GASP)
 * Introduction to Computation in R: [Code](https://github.com/pdwaggoner/Intro-to-R){:target="_blank"} from my Intro to R course at William & Mary
 * Learning LaTeX: [Code](https://github.com/pdwaggoner/LaTeX-Workshop){:target="_blank"} covering the basics of LaTeX from my workshop at Houston
