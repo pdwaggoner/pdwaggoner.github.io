@@ -6,7 +6,7 @@ ___________
 
 ### Software (On [CRAN](https://www.r-pkg.org/maint/philip.waggoner@gmail.com){:target="_blank"} and/or [GitHub](https://github.com/pdwaggoner){:target="_blank"})
 
-* [`hdImpute`](https://github.com/pdwaggoner/hdImpute){:target="_blank"}: Batched High Dimensional Imputation via Chained Random Forests
+* `hdImpute`in [R](https://github.com/pdwaggoner/hdImpute){:target="_blank"} and [Python](https://github.com/pdwaggoner/hdImpute_py){:target="_blank"}: Batched High Dimensional Imputation via Chained Random Forests 
 * [`plotmm`](https://CRAN.R-project.org/package=plotmm){:target="_blank"}: Tidy Tools for Visualizing Mixture Models (with Fong Chan and Lu Zhang)
 * [`amerika`](https://CRAN.R-project.org/package=amerika){:target="_blank"}: American politics-inspired color palette generator
 * Comparing Unsupervised Machine Learning Clustering Techniques (with Marc Lavielle; [Two Shiny Apps](https://github.com/pdwaggoner/clustering_Shiny){:target="_blank"})
