@@ -22,6 +22,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
+* The Paradox of Algorithms and Blame on Public Decision-makers (with Ryan Kennedy and Adam Ozer). Conditionally accepted, *Business and Politics*
+
 * [A Batch Process for High Dimensional Imputation](https://link.springer.com/article/10.1007/s00180-023-01325-9){:target="_blank"}. 2023. *Computational Statistics*
 
 * [Where are we going with statistical computing? From mathematical statistics to collaborative data science](https://www.mdpi.com/2227-7390/11/8/1821){:target="_blank"} (with Dominique Makowski). 2023. *Mathematics*, 11(8)
@@ -84,8 +86,6 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
 
 * Democratic Development of Algorithms (with Robert Y. Shapiro)
-
-* The Paradox of Algorithms and Blame on Public Decisionmakers (with Ryan Kennedy and Adam Ozer)
 
 * Accuracy and Fairness in Public Policy Algorithms: A Conjoint Experiment on Policy Preferences (with Myriam Shiran, Ryan Kennedy and Adam Ozer)
 
