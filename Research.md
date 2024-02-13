@@ -92,6 +92,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 ### Other Writing (Op-Eds, Blogs, Non-Peer-Reviewed, etc.)
 ##### >> Note: regular contributor to the [ASA CCD blog](https://ccdportfolio.netlify.app/blog/){:target="_blank"} and [R-Bloggers](https://www.r-bloggers.com/){:target="_blank"}. Selected posts listed here.
 
+* [Ethical Considerations for Developing and Using Artificial Intelligence in Statistical Practice](./resfiles/cope_amstat_article.pdf). (with Members of the ASA Committee on Professional Ethics), Amstat News
+
 * [Indexing from 0? The Value of R and Python for Data Science](https://ccdportfolio.netlify.app/blog/r-py/){:target="_blank"}. American Statistical Association CCD Portfolio Project Blog
 
 * [Batched Imputation for High Dimensional Missing Data Problems](https://www.r-bloggers.com/2022/03/batched-imputation-for-high-dimensional-missing-data-problems/){:target="_blank"}. R-Bloggers
