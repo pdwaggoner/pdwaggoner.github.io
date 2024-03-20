@@ -22,7 +22,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
-* [The Paradox of Algorithms and Blame on Public Decision-makers]([https://link.springer.com/article/10.1007/s00180-023-01325-9](https://www.cambridge.org/core/journals/business-and-politics/article/paradox-of-algorithms-and-blame-on-public-decisionmakers/13C176706062A2E809380BF5828D2844){:target="_blank"} (with Ryan Kennedy and Adam Ozer). 2024. *Business and Politics*
+* [The Paradox of Algorithms and Blame on Public Decision-makers](https://www.cambridge.org/core/journals/business-and-politics/article/paradox-of-algorithms-and-blame-on-public-decisionmakers/13C176706062A2E809380BF5828D2844){:target="_blank"} (with Ryan Kennedy and Adam Ozer). 2024. *Business and Politics*
 
 * [A Batch Process for High Dimensional Imputation](https://link.springer.com/article/10.1007/s00180-023-01325-9){:target="_blank"}. 2023. *Computational Statistics*
 
