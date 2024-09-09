@@ -3,7 +3,7 @@ ___________
 
 ## Welcome!
 
-My name is Philip Waggoner. I am a Senior Research Scientist in the Department of Applied Mathematics and Statistics in the Energy Modeling Lab at the Colorado School of Mines. 
+My name is Philip Waggoner. I am a Senior Research Scientist in the Department of Applied Mathematics and Statistics and the Energy Modeling Lab at the Colorado School of Mines. 
 
 Formerly, I was the Director of Data Science at YouGov America. 
 
