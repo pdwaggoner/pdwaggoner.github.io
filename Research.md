@@ -22,7 +22,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
-* Comment on Data Fission: Splitting a Single Data Point. Conditionally accepted, *Journal of the American Statistical Association*
+* Comment on Data Fission: Splitting a Single Data Point. Forthcoming, *Journal of the American Statistical Association*
 
 * [The Paradox of Algorithms and Blame on Public Decision-makers](https://www.cambridge.org/core/journals/business-and-politics/article/paradox-of-algorithms-and-blame-on-public-decisionmakers/13C176706062A2E809380BF5828D2844){:target="_blank"} (with Ryan Kennedy and Adam Ozer). 2024. *Business and Politics*
 
