@@ -3,9 +3,9 @@ ___________
 
 ## Welcome!
 
-My name is Philip Waggoner. I am a Senior Research Scientist in the Department of Applied Mathematics and Statistics and the Hammerling Research Group at the Colorado School of Mines. At Mines, I am also an affiliate with the [Payne Institute for Public Policy](https://payneinstitute.mines.edu/project/philip-waggoner/).
+My name is Philip Waggoner. I am a Senior Research Scientist in the Department of Applied Mathematics and Statistics and the Hammerling Research Group at the Colorado School of Mines. At Mines, I am also an affiliate with the [Payne Institute for Public Policy](https://payneinstitute.mines.edu/project/philip-waggoner/){:target="_blank"}.
 
-Formerly, I was the Director of Data Science at [YouGov America](https://today.yougov.com/). 
+Formerly, I was the Director of Data Science at [YouGov America](https://today.yougov.com/){:target="_blank"}. 
 
 I did my postdoc at Stanford University at the School of Medicine, advised by [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer){:target="_blank"} in the Division of Primary Care and Population Health (where I am currently a Visiting Researcher). Also, I maintain an appointment at the Institute for Social and Economic Research and Policy at [Columbia University](http://iserp.columbia.edu/people/philip-d-waggoner){:target="_blank"}.
 
