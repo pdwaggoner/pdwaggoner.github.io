@@ -7,7 +7,7 @@ My name is Philip Waggoner. I am a Senior Research Scientist in the Department o
 
 Formerly, I was the Director of Data Science at [YouGov America](https://today.yougov.com/){:target="_blank"}. 
 
-I did my postdoc at Stanford University at the School of Medicine, advised by [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer){:target="_blank"} in the Division of Primary Care and Population Health (where I am currently a Visiting Researcher). Also, I maintain an appointment at the Institute for Social and Economic Research and Policy at [Columbia University](http://iserp.columbia.edu/people/philip-d-waggoner){:target="_blank"}.
+I did my postdoc at Stanford University at the School of Medicine, advised by [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer){:target="_blank"} in the Division of Primary Care and Population Health (where I am currently a Visiting Researcher). Also, I maintain an appointment at the Institute for Social and Economic Research and Policy at [Columbia University](https://iserp.columbia.edu/directory/philip-d-waggoner){:target="_blank"}.
 
 I have held or currently hold faculty appointments at: the University of Chicago (computational social science), Johns Hopkins University (analytics and policy), Northwestern University (data science), the University of Virginia (data science), and the College of William & Mary (government).
 
