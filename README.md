@@ -3,7 +3,7 @@ ___________
 
 ## Welcome!
 
-My name is Philip Waggoner. I am a Senior Research Scientist in the Department of Applied Mathematics and Statistics and the Hammerling Research Group at the Colorado School of Mines. At Mines, I am also an affiliate with the [Payne Institute for Public Policy](https://payneinstitute.mines.edu/project/philip-waggoner/){:target="_blank"}.
+My name is Philip Waggoner. I am a Senior Research Scientist in the Department of Applied Mathematics and Statistics and the Hammerling Research Group at the [Colorado School of Mines](https://ams.mines.edu/hammerling-research-group/people/){:target="_blank"}. At Mines, I am also an affiliate with the [Payne Institute for Public Policy](https://payneinstitute.mines.edu/project/philip-waggoner/){:target="_blank"}.
 
 Formerly, I was the Director of Data Science at [YouGov America](https://today.yougov.com/){:target="_blank"}. 
 
