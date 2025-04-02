@@ -2,7 +2,6 @@
 ___________
 
 ## Open-Source Code and Software
-##### >> Over 150k downloads of original software as of August 2023
 
 ### Software (On [CRAN](https://www.r-pkg.org/maint/philip.waggoner@gmail.com){:target="_blank"} and/or [GitHub](https://github.com/pdwaggoner){:target="_blank"})
 
