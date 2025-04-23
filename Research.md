@@ -22,7 +22,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
-* Comment on Data Fission: Splitting a Single Data Point. Forthcoming, *Journal of the American Statistical Association*
+* [Comment on Data Fission: Splitting a Single Data Point](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402523){:target="_blank"}. 2025. *Journal of the American Statistical Association*
 
 * [The Paradox of Algorithms and Blame on Public Decision-makers](https://www.cambridge.org/core/journals/business-and-politics/article/paradox-of-algorithms-and-blame-on-public-decisionmakers/13C176706062A2E809380BF5828D2844){:target="_blank"} (with Ryan Kennedy and Adam Ozer). 2024. *Business and Politics*
 
@@ -84,12 +84,12 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * [Are Samples Drawn from Mechanical Turk Valid for Research on Political Ideology?](https://journals.sagepub.com/doi/full/10.1177/2053168015622072){:target="_blank"} (with Scott Clifford and Ryan M. Jewell). 2015. *Research & Politics*, 2(4)
 
-### Manuscripts in Preparation (Selected) 
+### Manuscripts Under Review or in Preparation (Selected) 
 ##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
 
-* Democratic Development of Algorithms (with Robert Y. Shapiro)
+* Subjective experience in AI systems: What do AI researchers and the public believe? (with Jeff Sebo, David Chalmers, Lucius Caviola, Noemi Dreksler, Carter Allen, Joshua Lewis, Kate Mays)
 
-* Accuracy and Fairness in Public Policy Algorithms: A Conjoint Experiment on Policy Preferences (with Myriam Shiran, Ryan Kennedy and Adam Ozer)
+* Impact of COVID-19 lockdown on coverage of maternal health and nutrition care in India: A Single Interrupted Time-series analysis (with Pascal Geldsetzer, Rajesh Rai, Anamitra Barik, Nilanjana Gupta, Sabri Bromage, Sandhya Kumar, Jan-Walter De Neve, Gopal Dhali, Abhijit Chowdhury, and Utz Johann Pape)
 
 ### Other Writing (Op-Eds, Blogs, Non-Peer-Reviewed, etc.)
 ##### >> Note: regular contributor to the [ASA CCD blog](https://ccdportfolio.netlify.app/blog/){:target="_blank"} and [R-Bloggers](https://www.r-bloggers.com/){:target="_blank"}. Selected posts listed here.
@@ -123,6 +123,10 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * [An Introductory Guide to LaTeX](https://github.com/pdwaggoner/LaTeX-Workshop){:target="_blank"}.
 
 ### Dormant Projects (Selected)
+
+* Democratic Development of Algorithms (with Robert Y. Shapiro)
+
+* Accuracy and Fairness in Public Policy Algorithms: A Conjoint Experiment on Policy Preferences (with Myriam Shiran, Ryan Kennedy and Adam Ozer)
 
 * Applying Regularization for Feature and Theory Selection (with Joanna Schroeder)
 
