@@ -91,6 +91,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * Impact of COVID-19 lockdown on coverage of maternal health and nutrition care in India: A Single Interrupted Time-series analysis (with Pascal Geldsetzer, Rajesh Rai, Anamitra Barik, Nilanjana Gupta, Sabri Bromage, Sandhya Kumar, Jan-Walter De Neve, Gopal Dhali, Abhijit Chowdhury, and Utz Johann Pape)
 
+* Accuracy and Fairness in Public Policy Algorithms: An Experiment on Policy Preferences (with Ryan Kennedy, et al.)
+
 ### Other Writing (Op-Eds, Blogs, Non-Peer-Reviewed, etc.)
 ##### >> Note: regular contributor to the [ASA CCD blog](https://ccdportfolio.netlify.app/blog/){:target="_blank"} and [R-Bloggers](https://www.r-bloggers.com/){:target="_blank"}. Selected posts listed here.
 
