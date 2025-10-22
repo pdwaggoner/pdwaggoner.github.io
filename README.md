@@ -3,9 +3,7 @@ ___________
 
 ## Welcome!
 
-My name is Philip Waggoner. I have been extremely fortunate to have worked with some incredible people over the years. 
-
-I have served in a variety of capacities such as Director of Data Science at YouGov, Senior Research Scientist in the Department of Applied Mathematics and Statistics at the Colorado School of Mines, Data Scientist at the Center for the Governance of AI at Oxford, and a few others. 
+My name is Philip Waggoner. I have been fortunate in my career to have served in a variety of roles such as Director of Data Science at YouGov, Senior Research Scientist in the Department of Applied Mathematics and Statistics at the Colorado School of Mines, Data Scientist at the Center for the Governance of AI at Oxford, and a few others. 
 
 > Throughout my work, regardless of the context, I've maintained a deep commitment to open source software development and open science more broadly. 
 
