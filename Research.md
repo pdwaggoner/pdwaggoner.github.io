@@ -22,6 +22,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
+* Democratizing Algorithm Development: Rethinking the Design of Complex Hybrid Decision-Making Systems. Forthcoming in *Proceedings of the International Conference on Complex Networks and their Applications*
+
 * [Comment on Data Fission: Splitting a Single Data Point](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402523){:target="_blank"}. 2025. *Journal of the American Statistical Association*
 
 * [The Paradox of Algorithms and Blame on Public Decision-makers](https://www.cambridge.org/core/journals/business-and-politics/article/paradox-of-algorithms-and-blame-on-public-decisionmakers/13C176706062A2E809380BF5828D2844){:target="_blank"} (with Ryan Kennedy and Adam Ozer). 2024. *Business and Politics*
