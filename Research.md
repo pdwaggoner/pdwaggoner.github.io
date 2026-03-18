@@ -95,6 +95,8 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 * Impact of COVID-19 lockdown on coverage of maternal health and nutrition care in India: A Single Interrupted Time-series analysis (with Pascal Geldsetzer, Rajesh Rai, Anamitra Barik, Nilanjana Gupta, Sabri Bromage, Sandhya Kumar, Jan-Walter De Neve, Gopal Dhali, Abhijit Chowdhury, and Utz Johann Pape)
 
+* easystats: A Unified Framework for Statistical Analysis in R (with Daniel Lüdecke, Mattan S. Ben-Shachar, Indrajeet Patil, Brenton M. Wiernik, Etienne Bacher, Rémi Thériault, and Dominique Makowski)
+
 * Accuracy and Fairness in Public Policy Algorithms: An Experiment on Policy Preferences (with Ryan Kennedy, Adam Ozer, Myriam Shiran and Amanda Austin)
 
 ### Other Writing (Op-Eds, Blogs, Non-Peer-Reviewed, etc.)
