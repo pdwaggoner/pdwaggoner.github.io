@@ -22,7 +22,7 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 
 ### Papers
 
-* Democratizing Algorithm Development: Rethinking the Design of Complex Hybrid Decision-Making Systems. Forthcoming in *Proceedings of the International Conference on Complex Networks and their Applications*
+* [Democratizing Algorithm Development: Rethinking the Design of Complex Hybrid Decision-Making Systems](./resfiles/waggoner_cn_2025.pdf). 2025. *Proceedings of the International Conference on Complex Networks and their Applications XIV*
 
 * [Comment on Data Fission: Splitting a Single Data Point](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402523){:target="_blank"}. 2025. *Journal of the American Statistical Association*
 
