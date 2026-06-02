@@ -3,7 +3,7 @@ ___________
 
 ## Welcome!
 
-My name is Philip Waggoner, and I am a Data Architect at the Data Intensive Social Science Center at Yale University. 
+My name is Philip Waggoner, and I am a Data Architect at the [Data Intensive Social Science Center](https://dissc.yale.edu/){:target="_blank"} at Yale University. 
 
 > Throughout my work, regardless of the context, I've maintained a deep commitment to open source software development and open science. 
 
