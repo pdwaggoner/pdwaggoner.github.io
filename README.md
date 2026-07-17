@@ -5,8 +5,6 @@ ___________
 
 My name is Philip Waggoner, and I am a Data Architect at the [Data Intensive Social Science Center](https://dissc.yale.edu/){:target="_blank"} at Yale University. 
 
-> Throughout my work, regardless of the context, I've maintained a deep commitment to open source software development and open science. 
-
 I have served in a variety of roles such as Director of Data Science at YouGov, Senior Research Scientist in Applied Mathematics and Statistics at the Colorado School of Mines, Data Scientist at the Center for the Governance of AI at Oxford, and a few others. 
 
 I did my postdoc at Stanford University at the School of Medicine, advised by [Pascal Geldsetzer](https://profiles.stanford.edu/pascal-geldsetzer){:target="_blank"} in the Division of Primary Care and Population Health.
