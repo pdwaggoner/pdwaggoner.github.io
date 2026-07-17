@@ -87,17 +87,13 @@ In the age of data-driven problem-solving, applying sophisticated computational 
 * [Are Samples Drawn from Mechanical Turk Valid for Research on Political Ideology?](https://journals.sagepub.com/doi/full/10.1177/2053168015622072){:target="_blank"} (with Scott Clifford and Ryan M. Jewell). 2015. *Research & Politics*, 2(4)
 
 ### Manuscripts Under Review or in Preparation (Selected) 
-##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"} or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2663173){:target="_blank"}
+##### >> See also preprints at [arXiv](https://arxiv.org/search/?query=Waggoner%2C+Philip&searchtype=all&source=header){:target="_blank"}
 
 * [A Theoretical Framework for Adaptive Utility-Weighted Benchmarking](https://arxiv.org/pdf/2602.12356){:target="_blank"}
 
 * [Subjective experience in AI systems: What do AI researchers and the public believe?](https://arxiv.org/pdf/2506.11945){:target="_blank"} (with Jeff Sebo, David Chalmers, Lucius Caviola, Noemi Dreksler, Carter Allen, Joshua Lewis, Kate Mays)
 
-* Impact of COVID-19 lockdown on coverage of maternal health and nutrition care in India: A Single Interrupted Time-series analysis (with Pascal Geldsetzer, Rajesh Rai, Anamitra Barik, Nilanjana Gupta, Sabri Bromage, Sandhya Kumar, Jan-Walter De Neve, Gopal Dhali, Abhijit Chowdhury, and Utz Johann Pape)
-
-* easystats: A Unified Framework for Statistical Analysis in R (with Daniel Lüdecke, Mattan S. Ben-Shachar, Indrajeet Patil, Brenton M. Wiernik, Etienne Bacher, Rémi Thériault, and Dominique Makowski)
-
-* Accuracy and Fairness in Public Policy Algorithms: An Experiment on Policy Preferences (with Ryan Kennedy, Adam Ozer, Myriam Shiran and Amanda Austin)
+* And some others here and there
 
 ### Other Writing (Op-Eds, Blogs, Non-Peer-Reviewed, etc.)
 ##### >> Note: regular contributor to the [ASA CCD blog](https://ccdportfolio.netlify.app/blog/){:target="_blank"} and [R-Bloggers](https://www.r-bloggers.com/){:target="_blank"}. Selected posts listed here.
